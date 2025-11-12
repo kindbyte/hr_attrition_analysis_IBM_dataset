@@ -80,10 +80,7 @@ Tableau Public – for data visualization and dashboard creation
 
 📊 Dashboards
 Created in Tableau:
-
-📉 Attrition by Gender (bar chart with percentages)
 💰 Attrition by Income Range (bar chart showing attrition % by income tier)
-📊 Number of Employee by Age (visualization of workforce age groups)
 
 
 Data Source: IBM HR Analytics Employee Attrition & Performance
