@@ -2,8 +2,7 @@
 
 This project explores employee attrition based on gender, monthly income and age using an HR dataset from IBM.
 
-🔗 Interactive Tableau Dashboards:  
-[View on Tableau Public](https://public.tableau.com/app/profile/saglara.garyaeva/vizzes)
+
 
 ---
 
